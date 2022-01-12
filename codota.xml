@@ -1,5 +1,10 @@
 <application>
   <component name="CodotaSettings">
     <option name="id" value="59c0a5c6-d86d-479a-97be-603d72bebd96" />
+    <option name="usedLanguages">
+      <set>
+        <option value="java" />
+      </set>
+    </option>
   </component>
 </application>
